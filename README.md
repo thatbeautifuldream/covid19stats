@@ -2,12 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=milindmishra.me&style=for-the-badge&url=https%3A%2F%2Fmilindmishra.me)](https://milindmishra.me)
 
-## I'm a Developer, and Teacher!!
+## I'm a Learner :)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw anime characters
 
 ### Connect with me:
 
