@@ -1,3 +1,2 @@
-# milindmishra.me
+# [Covid 19 Stats India]()
 
-This is my internet scratch pad, all the good stuff I learn gets dumped in here :)
